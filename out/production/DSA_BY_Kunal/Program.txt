@@ -1,0 +1,47 @@
+Array – 20 Easy Level Questions
+
+Find the Largest Element in Array
+Find the Second Largest Element
+Check if Array is Sorted
+Remove Duplicates from Sorted Array
+Linear Search
+Binary Search (on sorted array)
+Left Rotate Array by One Position
+Move All Zeros to End
+Count Occurrences of a Number
+Reverse an Array
+Find the Missing Number (1 to n)
+Find Minimum and Maximum Element
+Sum of Array Elements
+Find Duplicate Number (Single Duplicate)
+Check if Two Arrays are Equal
+Union of Two Arrays
+Intersection of Two Arrays
+Frequency of Each Element
+Check for Palindromic Array
+Number of Even and Odd Elements
+
+
+
+
+✅ String – 20 Easy Level Questions
+Reverse a String
+Check if String is Palindrome
+Count Vowels and Consonants
+Remove Spaces from String
+Convert String to Uppercase / Lowercase
+Find Duplicate Characters
+Count Words in a String
+Check if Two Strings are Anagrams
+Print Characters with Frequency
+Replace Character in String
+Find First Non-Repeating Character
+Toggle Case of Each Character
+Check if String Contains Only Digits
+Count Number of Alphabets, Digits & Special Characters
+Compare Two Strings
+Reverse Each Word in a Sentence
+Check for Substring
+Check if One String is Rotation of Another
+Print All Substrings
+Check for Pangram (A-Z present)

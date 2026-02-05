@@ -1,0 +1,4 @@
+
+
+1. You are given an array of numbers in which some numbers are palindrome. Write a solution with O(n) or O(1) complexity to find the largest palindrome in the array and print it's index.
+

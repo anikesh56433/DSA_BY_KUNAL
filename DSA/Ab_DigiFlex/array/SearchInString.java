@@ -17,7 +17,7 @@ public class SearchInString {
 
     public static void main(String[] args) {
 
-        String s = "Anikes Sharma" ;
+        String s = "Anikesh Sharma" ;
         char ch = 'm' ;
 
         int inString = findInString(s, ch);

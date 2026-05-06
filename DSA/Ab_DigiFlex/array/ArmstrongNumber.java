@@ -4,7 +4,7 @@ public class ArmstrongNumber {
 
     public static void main(String[] args) {
 
-        int number = 151;
+        int number = 153;
         int temp = number;
 
         int sum = 0 ;

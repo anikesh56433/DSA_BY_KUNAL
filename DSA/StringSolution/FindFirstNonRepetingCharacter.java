@@ -11,16 +11,9 @@ public class FindFirstNonRepetingCharacter {
 
         Map<Character,Integer> map = new HashMap<>();
 
-        for(int i = 0 ; i<s.length();i++)
+        for(char ch :s.toCharArray())
         {
-            char ch = s.charAt(i);
-            if(map.containsKey(ch))
-            {
-                map.put(ch , map.get(ch)+1);
-            }
-            else {
-                map.put(ch,1);
-            }
+           map.put(ch,map.getOrDefault(ch,0)+1);
         }
         String s1="";
         for(char ch: map.keySet())

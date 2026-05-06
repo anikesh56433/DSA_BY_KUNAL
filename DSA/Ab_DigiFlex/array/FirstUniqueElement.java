@@ -12,13 +12,8 @@ public class FirstUniqueElement {
 
         for(int i:arr)
         {
-            if(map.containsKey(i))
-            {
-                map.put(i , map.get(i)+1);
-            }
-            else {
-                map.put(i ,1);
-            }
+
+            map.put(i,map.getOrDefault(i,0)+1);
         }
 
         for(int a : map.keySet())
